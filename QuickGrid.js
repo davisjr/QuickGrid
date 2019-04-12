@@ -4,7 +4,7 @@ function QuickGrid() {
 		this.context;
 		this.title;
 		this.alphaSlider;
-		this.size 	= 10;
+		this.size 	= 4;
 		this.alpha 	= 10;
 	
 		this.init = function() {
