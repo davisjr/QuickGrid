@@ -46,7 +46,7 @@ function QuickGrid() {
 			this.title.style.textTransform			= "none";
 			this.title.style.background		 	= "rgba(0,0,0,0.6)";
 			this.title.style.borderRadius 			= "5px";
-			document.body.appendChild(this.title);
+			//document.body.appendChild(this.title);
 			
 			this.alphaSlider				= document.createElement("input");
 			this.alphaSlider.type 				= "range";
